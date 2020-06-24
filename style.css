@@ -1,0 +1,19 @@
+body, html {
+  margin: 0;
+}
+#info {
+	position: absolute;
+	bottom: 30px;
+	width: 100%;
+	text-align: center;
+	z-index: 100;
+	display:block;
+}
+canvas {
+  display: block;
+  cursor: move;
+}
+
+.hide {
+  display: none;
+}
